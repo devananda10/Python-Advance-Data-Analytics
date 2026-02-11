@@ -29,13 +29,3 @@ class Management:
 
 
 
-obj = Management()
-obj.CSE()
-obj.CT()
-obj.CO()
-obj.ECE()
-obj.MECH()
-obj.CIVIL()
-obj.AUTOMOBILE()
-obj.VLSI()
-obj.EEE()
