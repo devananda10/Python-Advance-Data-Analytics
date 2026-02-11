@@ -4,15 +4,16 @@ class PythonDataAnalytics:
         print("Devu")
         
     def name2(self):
-        print("Anu")
+        print("Aswin")
         
     def name3(self):
-        print("Manu")
+        print("Helna")
         
     def name4(self):
-        print("Neha")
+        print("Ancy")
         
     def name5(self):
-        print("Rahul")
+        print("Bilu")
+
 
 
