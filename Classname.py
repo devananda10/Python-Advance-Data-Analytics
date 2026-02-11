@@ -15,10 +15,4 @@ class PythonDataAnalytics:
     def name5(self):
         print("Rahul")
 
-obj = PythonDataAnalytics()
 
-obj.name1()
-obj.name2()
-obj.name3()
-obj.name4()
-obj.name5()
